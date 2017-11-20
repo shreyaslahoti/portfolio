@@ -1,3 +1,5 @@
+NOTE: Open in the Edit mode
+
 created and optimized a flight schedule between Dallas Love Field (DAL), Austin Bergstrom (AUS), and Houston Hobby (HOU). Here tail numbers are used to name the aircraft. We have 6 aircrafts T1, T2, T3, T4, T5, T6.
 
 Due to noise restrictions:
